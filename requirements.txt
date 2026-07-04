@@ -1,0 +1,6 @@
+streamlit
+akshare
+baostock
+pandas
+matplotlib
+requests
